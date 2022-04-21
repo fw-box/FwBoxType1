@@ -16,7 +16,7 @@
 #include <Wire.h>
 
 #define DEVICE_TYPE 1
-#define FIRMWARE_VERSION "1.1.12"
+#define FIRMWARE_VERSION "1.1.13"
 
 void setup()
 {
